@@ -24,7 +24,7 @@ Tested using a single image and evaluated with accuracy and confusion matrix.
 ```python
 prediction = 'cat' or 'dog'
 
-## 3]  ##Pokémon Image Classifier 🧠🔍
+# 3]  #Pokémon Image Classifier 🧠🔍
 This mini project is a **binary image classification model** trained to identify whether an image is of a **Pokémon or not**. It uses **TensorFlow** and **Keras** to build a deep learning model that can generalize image features and make accurate predictions.
 
 ## 📌 Project Overview
@@ -32,6 +32,24 @@ This mini project is a **binary image classification model** trained to identify
 - 🧠 Deep Learning model using CNN (Convolutional Neural Networks)
 - 🗃️ Image data preprocessing and augmentation
 - 📈 Model evaluation and prediction visualization
+
+# 4] American Express Data Analysis 💳📈
+
+This repository contains a data analytics project focused on American Express customer data. The goal is to perform exploratory data analysis (EDA) on transaction behavior and discover patterns that could help in better decision-making, customer segmentation, and product optimization.
+
+## 🔍 Objectives
+- Load and clean American Express customer and transaction data
+- Explore trends in customer spending and behavior
+- Visualize transaction patterns and outliers
+- Gain insights into customer segmentation and loyalty
+
+## 📊 Key Features
+- Exploratory Data Analysis (EDA)
+- Data Cleaning and Preprocessing
+- Visualizations using Seaborn and Matplotlib
+- Insight extraction from financial data
+
+
 
 
 
