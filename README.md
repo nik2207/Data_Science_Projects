@@ -24,4 +24,15 @@ Tested using a single image and evaluated with accuracy and confusion matrix.
 ```python
 prediction = 'cat' or 'dog'
 
+## 3]  ##Pokémon Image Classifier 🧠🔍
+This mini project is a **binary image classification model** trained to identify whether an image is of a **Pokémon or not**. It uses **TensorFlow** and **Keras** to build a deep learning model that can generalize image features and make accurate predictions.
+
+## 📌 Project Overview
+- 🔢 Binary classification: Pokémon vs Non-Pokémon
+- 🧠 Deep Learning model using CNN (Convolutional Neural Networks)
+- 🗃️ Image data preprocessing and augmentation
+- 📈 Model evaluation and prediction visualization
+
+
+
 
