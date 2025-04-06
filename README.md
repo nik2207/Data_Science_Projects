@@ -20,9 +20,6 @@ This is a Convolutional Neural Network (CNN) project to classify whether an imag
 The model is trained on a dataset of 2000+ images of cats and dogs.
 ## 🧪 Testing
 Tested using a single image and evaluated with accuracy and confusion matrix.
-## 📸 Sample Prediction
-```python
-prediction = 'cat' or 'dog'
 
 # 3]  #Pokémon Image Classifier 🧠🔍
 This mini project is a **binary image classification model** trained to identify whether an image is of a **Pokémon or not**. It uses **TensorFlow** and **Keras** to build a deep learning model that can generalize image features and make accurate predictions.
